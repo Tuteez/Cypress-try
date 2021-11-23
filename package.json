@@ -1,0 +1,19 @@
+{
+  "name": "cypress-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "cypress": "^9.1.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}
